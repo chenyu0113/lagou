@@ -1,0 +1,88 @@
+.content .hot-recruit .top {
+    width: 351px;
+    height: 108px;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+.content .hot-recruit .top .position {
+    height: 18px;
+    line-height: 18px;
+}
+
+.content .hot-recruit .top .position .name {
+    float: left;
+    max-width: 120px;
+    font-size: 16px;
+    color: #333333;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.content .hot-recruit .top .position span {
+    float: left;
+    color: #999999;
+}
+
+.content .hot-recruit .top .position .chat-me {
+    float: left;
+    width: 18px;
+    height: 18px;
+    background: url(../images/icon_chat.png) no-repeat;
+}
+
+.content .hot-recruit .top .position .salary {
+    float: right;
+    color: #fa6041;
+}
+
+.content .hot-recruit .top .info {
+    height: 41px;
+    line-height: 41px;
+    color: #777777;
+    margin-bottom: 5px;
+}
+
+.content .hot-recruit .top .labels {
+    height: 28px;
+}
+
+.content .hot-recruit .top .labels span {
+    float: left;
+    width: 72px;
+    height: 26px;
+    margin-right: 10px;
+    border-radius: 3px;
+    border: 1px solid #f0f0f0;
+    font-size: 12px;
+    line-height: 26px;
+    text-align: center;
+    color: #999999;
+}
+
+.content .hot-recruit .bottom {
+    width: 100%;
+    padding-top: 15px;
+}
+
+.content .hot-recruit .bottom img {
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+
+.content .hot-recruit .bottom .txt {
+    height: 20px;
+    float: left;
+    padding-top: 3px;
+    margin-left: 14px;
+    line-height: 20px;
+}
+
+.content .hot-recruit .bottom .txt a {
+    color: #555555;
+}
+
+.content .hot-recruit .bottom .txt p {
+    color: #999999;
+}

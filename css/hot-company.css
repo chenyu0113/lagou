@@ -1,0 +1,72 @@
+.content .hot-company .detail ul li {
+    width: 260px;
+    height: 248px;
+    padding: 20px 13px 0;
+}
+
+.content .hot-company .detail ul li .top {
+    width: 260px;
+    height: 181px;
+    border-bottom: 1px dashed #e0e0e0;
+    text-align: center;
+    line-height: 24px;
+}
+
+.content .hot-company .detail ul li .top a {
+    height: 80px;
+    margin-bottom: 13px;
+}
+
+.content .hot-company .detail ul li .top a img {
+    width: 80px;
+    height: 80px;
+}
+
+.content .hot-company .detail ul li .top h4 a {
+    font-size: 16px;
+    color: #333333;
+}
+
+.content .hot-company .detail ul li .top .labels {
+    margin-bottom: 3px;
+    color: #999999;
+}
+
+.content .hot-company .detail ul li .top .info {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.content .hot-company .detail .bottom {
+    width: 100%;
+    height: 32px;
+    padding-top: 17px;
+    text-align: center;
+}
+
+.content .hot-company .detail .bottom a {
+    float: left;
+    width: 76px;
+    height: 32px;
+    border-right: 1px solid #ededed;
+}
+
+.content .hot-company .detail .bottom a .data {
+    color: #00b3a7;
+}
+
+.content .hot-company .detail .bottom a .name {
+    font-size: 12px;
+    color: #999999;
+}
+
+.content .hot-company .detail .bottom a.btn1 {
+    width: 89px;
+}
+
+.content .hot-company .detail .bottom a.btn2 {
+    width: 93px;
+    border-right: 0;
+}

@@ -1,0 +1,102 @@
+.content .module-tabs {
+    width: 100%;
+    margin-top: 37px;
+    margin-bottom: 60px;
+}
+
+.content .module-tabs .title {
+    height: 51px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.content .module-tabs .title span {
+    float: left;
+    height: 52px;
+    margin-right: 60px;
+    line-height: 52px;
+    font-size: 16px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.content .module-tabs .title span.current {
+    color: #333333;
+    border-bottom: 1px solid #333333;
+}
+
+.content .module-tabs .hot-tips {
+    height: 18px;
+    line-height: 18px;
+    padding-bottom: 18px;
+}
+
+.content .module-tabs .hot-tips i {
+    float: left;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #e6e6e6;
+    color: #fdffff;
+    margin-right: 14px;
+}
+
+.content .module-tabs .hot-tips span {
+    float: left;
+    margin-right: 23px;
+    color: #999999;
+}
+
+.content .module-tabs .hot-tips a {
+    float: left;
+    color: #00b38a;
+}
+
+
+/* 公共的detail */
+
+.content .module-tabs .detail {
+    width: 100%;
+}
+
+.content .module-tabs .detail ul {
+    display: none;
+    width: 1220px;
+    overflow: hidden;
+}
+
+.content .module-tabs .detail ul li {
+    float: left;
+    width: 351px;
+    height: 178px;
+    padding: 20px 18px 0;
+    border: 1px solid #eaeeed;
+    margin-right: 15px;
+    margin-bottom: 17px;
+}
+
+.content .module-tabs .detail ul.current {
+    display: block;
+}
+
+
+/* 查看更多公共样式 */
+
+.content .module-tabs a.look-more {
+    display: block;
+    width: 388px;
+    height: 43px;
+    border: 1px solid #00b38a;
+    margin: 0 auto;
+    background-color: #fff;
+    font-size: 16px;
+    color: #00b38a;
+    line-height: 43px;
+    text-align: center;
+}
+
+.content .module-tabs a.look-more:hover {
+    background-color: #00b38a;
+    color: #fff;
+}

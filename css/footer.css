@@ -1,0 +1,149 @@
+.footer {
+    width: 100%;
+    height: 138px;
+    padding-top: 49px;
+    padding-bottom: 66px;
+    background-color: #fff;
+}
+
+.footer .footer-c {
+    height: 138px;
+}
+
+.footer .footer-c .login-method {
+    float: left;
+    width: 180px;
+    height: 138px;
+    padding-right: 130px;
+    border-right: 1px solid #e8e8e8;
+}
+
+.footer .footer-c .login-method .login-method-btn {
+    display: block;
+    width: 180px;
+    height: 42px;
+    border: 1px solid #00b38a;
+    margin-bottom: 16px;
+    text-align: center;
+    line-height: 42px;
+    color: #00b38a;
+}
+
+.footer .footer-c .login-method .login-method-btn i {
+    display: inline-block;
+    width: 12px;
+    height: 15px;
+    margin-right: 7px;
+    background: url(../images/sprite_02.png) no-repeat -150px -220px;
+    vertical-align: middle;
+}
+
+.footer .footer-c .login-method .login-method-btn span {
+    vertical-align: middle;
+}
+
+.footer .footer-c .login-method .login-method-btn:hover {
+    background-color: #00b38a;
+    color: #fff;
+}
+
+.footer .footer-c .login-method .login-method-btn:hover i {
+    background: url(../images/sprite_02.png) no-repeat -181px -220px;
+}
+
+.footer .footer-c .login-method .mini-pro i {
+    width: 14px;
+    height: 14px;
+    background: url(../images/sprite_02.png) no-repeat -215px -54px;
+}
+
+.footer .footer-c .login-method .mini-pro:hover i {
+    background: url(../images/sprite_02.png) no-repeat -173px -54px;
+}
+
+.footer .footer-c .login-method .mini-pro {
+    position: relative;
+}
+
+.footer .footer-c .login-method .mini-pro img {
+    position: absolute;
+    left: 190px;
+    top: 0;
+    width: 140px;
+    height: 140px;
+    border: 1px solid #ccc;
+    display: none;
+}
+
+.footer .footer-c .login-method .mini-pro:hover img {
+    display: block;
+}
+
+.footer .footer-c .login-method .txt i {
+    display: inline-block;
+    width: 16px;
+    height: 15px;
+    margin-right: 4px;
+    background: url(../images/sprite_02.png) no-repeat -114px -184px;
+    vertical-align: middle;
+}
+
+.footer .footer-c .login-method .txt:hover i {
+    background: url(../images/sprite_02.png) no-repeat -114px -221px;
+}
+
+.footer .footer-c .login-method .txt {
+    position: relative;
+}
+
+.footer .footer-c .login-method .txt img {
+    position: absolute;
+    left: 0px;
+    top: 19px;
+    width: 159px;
+    height: 160px;
+    display: none;
+}
+
+.footer .footer-c .login-method .txt:hover img {
+    display: block;
+}
+
+.footer .footer-c .login-method .weibo {
+    float: right;
+}
+
+.footer .footer-c .login-method .weibo i {
+    width: 14px;
+    height: 17px;
+    background: url(../images/sprite_02.png) no-repeat -213px -20px;
+}
+
+.footer .footer-c .login-method .weibo:hover i {
+    background: url(../images/sprite_02.png) no-repeat -172px -20px;
+}
+
+.footer .footer-c .service {
+    float: left;
+    width: 758px;
+    height: 138px;
+    padding-left: 130px;
+}
+
+.footer .footer-c .service dl {
+    float: left;
+    width: 252px;
+    padding-top: 3px;
+}
+
+.footer .footer-c .service dl dt {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 27px;
+}
+
+.footer .footer-c .service dl dd a {
+    display: block;
+    height: 32px;
+    line-height: 32px;
+}

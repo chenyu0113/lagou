@@ -1,0 +1,43 @@
+.content .module-tabs .next {
+    width: 330px;
+    height: 27px;
+    margin: 0 auto;
+    margin-top: 21px;
+    margin-bottom: 70px;
+}
+
+.next a {
+    float: left;
+    display: block;
+    width: 62px;
+    height: 27px;
+    border: 1px solid #ededed;
+    margin-right: 9px;
+    line-height: 27px;
+    text-align: center;
+    color: #c0c0c0;
+}
+
+.next a.before-paper {
+    cursor: default;
+}
+
+.next ol li a {
+    width: 28px;
+    height: 28px;
+    color: #555555;
+}
+
+.next ol li a.current {
+    background-color: #00b38a;
+    color: #fff;
+}
+
+.next ol i {
+    float: left;
+    margin-right: 9px;
+}
+
+.next a.next-paper {
+    color: #555555;
+}
